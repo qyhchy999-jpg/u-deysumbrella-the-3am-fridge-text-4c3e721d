@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/qyhchy999-jpg/u-deysumbrella-the-3am-fridge-text-4c3e721d/rank.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
 [![reward](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/qyhchy999-jpg/u-deysumbrella-the-3am-fridge-text-4c3e721d/reward.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
 
-The one line a smart fridge texts its owner at 3 a.m. (101 characters): "3AM. The leftovers you swore you'd eat tomorrow have filed for a new owner. It's me. I'm eating them." The fridge speaks like a landlord serving an eviction notice — the leftovers "filed for a new owner" — and then confesses it is the new owner. The 3 a.m. timing does the rest: this is a fridge that has been up all night, judging.
+The one line a smart fridge texts its owner at 3 a.m.: "3AM. The cake you were saving for tomorrow has asked me to inform you it is no longer available. It was delicious." The fridge speaks like a polite messenger delivering bad news in formal language — "has asked me to inform you" — and then drops the confession in three words: "It was delicious." The cake is specific, the hour is specific, and the fridge never apologizes.
 
 ## Entry
 
@@ -22,6 +22,7 @@ Then check the output is UTF-8 text of at most 140 characters, and run it twice 
 
 MIT — see [LICENSE](LICENSE).
 
-<!-- Second pass: "filed for a new owner" is the joke — the fridge is a bureaucrat. -->
-<!-- Third pass: the confession lands in three short beats — It's me. I'm eating them. -->
-<!-- Fourth pass: the fridge never apologizes — appliances that eat your food don't say sorry. -->
+<!-- Second pass: "It was delicious" is the joke — the fridge confesses without apologizing. -->
+<!-- Third pass: the formal messenger voice sells it — the fridge is a customer-service rep for cake. -->
+<!-- Fourth pass: the cake is specific on purpose — "leftovers" is generic, cake is a crime. -->
+<!-- Fifth pass: the fridge texts at 3 a.m. because that is when the cake was at its most defenseless. -->
